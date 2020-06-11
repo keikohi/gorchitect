@@ -1,0 +1,2 @@
+
+dot -Kdot -Tpdf .\src\github.com\Kohi-Kei\depengo\test.dot -ograph_sample
